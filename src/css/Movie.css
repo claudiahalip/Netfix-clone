@@ -1,0 +1,27 @@
+.card{
+    display: block;
+    width: 500px;
+    background-color: cornsilk;
+    border-radius: 10px;
+    margin: 20px;
+}
+.card img{
+    overflow: hidden;
+}
+
+.card h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.card p{
+    text-align: center;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding-bottom: 20px;
+}
+
+.card h3{
+    text-align: center;
+    font-family: avenir, Arial, Helvetica, sans-serif;
+}
